@@ -1,0 +1,7 @@
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\aoc 2023\day7\day7\bin\Debug\day7.exe.config
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\aoc 2023\day7\day7\bin\Debug\day7.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\aoc 2023\day7\day7\bin\Debug\day7.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\aoc 2023\day7\day7\obj\Debug\day7.csproj.AssemblyReference.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\aoc 2023\day7\day7\obj\Debug\day7.csproj.CoreCompileInputs.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\aoc 2023\day7\day7\obj\Debug\day7.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\aoc 2023\day7\day7\obj\Debug\day7.pdb
